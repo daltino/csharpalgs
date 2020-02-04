@@ -1,0 +1,11 @@
+/Users/daltonwhyte/Documents/CSharpAlgs/obj/Debug/netcoreapp3.1/CSharpAlgs.csprojAssemblyReference.cache
+/Users/daltonwhyte/Documents/CSharpAlgs/obj/Debug/netcoreapp3.1/CSharpAlgs.AssemblyInfoInputs.cache
+/Users/daltonwhyte/Documents/CSharpAlgs/obj/Debug/netcoreapp3.1/CSharpAlgs.AssemblyInfo.cs
+/Users/daltonwhyte/Documents/CSharpAlgs/bin/Debug/netcoreapp3.1/CSharpAlgs
+/Users/daltonwhyte/Documents/CSharpAlgs/bin/Debug/netcoreapp3.1/CSharpAlgs.deps.json
+/Users/daltonwhyte/Documents/CSharpAlgs/bin/Debug/netcoreapp3.1/CSharpAlgs.runtimeconfig.json
+/Users/daltonwhyte/Documents/CSharpAlgs/bin/Debug/netcoreapp3.1/CSharpAlgs.runtimeconfig.dev.json
+/Users/daltonwhyte/Documents/CSharpAlgs/bin/Debug/netcoreapp3.1/CSharpAlgs.dll
+/Users/daltonwhyte/Documents/CSharpAlgs/bin/Debug/netcoreapp3.1/CSharpAlgs.pdb
+/Users/daltonwhyte/Documents/CSharpAlgs/obj/Debug/netcoreapp3.1/CSharpAlgs.dll
+/Users/daltonwhyte/Documents/CSharpAlgs/obj/Debug/netcoreapp3.1/CSharpAlgs.pdb
